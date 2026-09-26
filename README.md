@@ -1,4 +1,7 @@
 # Credit Card Fraud Detection - EDA Project
+## 🚀 Live Demo
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://creditcardfrauddetection-eerkmuddgaztgk8tpzfgq3.streamlit.app/)
 
 ## 📌 Project Overview
 This project focuses on Exploratory Data Analysis (EDA) of credit card transaction data to identify patterns in fraudulent transactions.
