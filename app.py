@@ -10,7 +10,7 @@ st.set_page_config(
 
 @st.cache_data
 def load_data():
-    df = pd.read_csv("fraudTrain.csv")
+    df = pd.read_csv("fraudTrain_sample.csv")
     df["trans_date_trans_time"] = pd.to_datetime(
         df["trans_date_trans_time"]
     )
